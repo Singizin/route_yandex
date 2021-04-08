@@ -1,0 +1,154 @@
+{
+	"data": {
+		"vehicles": [
+			{
+				"type": "FeatureCollection",
+				"properties": {
+					"type": "FeatureCollection",
+					"VehicleMetaData": {
+						"id": "1651901|a82bd5fd2e3f05125353a17895b93549",
+						"Transport": {
+							"id": "1651901|a82bd5fd2e3f05125353a17895b93549",
+							"threadId": "2161326809",
+							"lineId": "2161326799",
+							"name": "8",
+							"Types": [
+								"trolleybus"
+							],
+							"type": "trolleybus",
+							"uri": "ymapsbm1://transit/line?id=2161326799&ll=82.924391%2C54.975356&name=8&r=4696&type=trolleybus",
+							"seoname": "8"
+						}
+					}
+				},
+				"features": [
+					{
+						"geometry": {
+							"type": "LineString",
+							"coordinates": [
+								[
+									82.984022,
+									55.001839999999997
+								],
+								[
+									82.98413,
+									55.001926
+								],
+								[
+									82.98459199999999,
+									55.002295999999997
+								],
+								[
+									82.98436,
+									55.002390999999999
+								],
+								[
+									82.98413599999999,
+									55.002479
+								]
+							]
+						},
+						"properties": {
+							"type": "Feature",
+							"TrajectorySegmentMetaData": {
+								"duration": 30,
+								"time": 1615909066
+							}
+						}
+					},
+					{
+						"geometry": {
+							"type": "LineString",
+							"coordinates": [
+								[
+									82.98413599999999,
+									55.002479
+								],
+								[
+									82.984027,
+									55.002522
+								],
+								[
+									82.983811,
+									55.002603
+								]
+							]
+						},
+						"properties": {
+							"type": "Feature",
+							"TrajectorySegmentMetaData": {
+								"duration": 3,
+								"time": 1615909096
+							}
+						}
+					},
+					{
+						"geometry": {
+							"type": "LineString",
+							"coordinates": [
+								[
+									82.983811,
+									55.002603
+								],
+								[
+									82.983811,
+									55.002603
+								]
+							]
+						},
+						"properties": {
+							"type": "Feature",
+							"TrajectorySegmentMetaData": {
+								"duration": 7,
+								"time": 1615909099
+							}
+						}
+					}
+				]
+			}
+		],
+		"regionInfo": {
+			"id": 102060,
+			"capitalId": 0,
+			"hierarchy": [
+				225,
+				11316,
+				65,
+				102060
+			],
+			"seoname": "oktyabrsky-district",
+			"bounds": [
+				[
+					82.929112,
+					54.96970174914566
+				],
+				[
+					83.091734,
+					55.05129474914566
+				]
+			],
+			"parentRegion": {
+				"id": 65,
+				"capitalId": 0,
+				"hierarchy": [
+					225,
+					11316,
+					65
+				],
+				"seoname": "novosibirsk",
+				"bounds": [
+					[
+						82.71605,
+						54.83033206047414
+					],
+					[
+						83.12481,
+						55.22907406047414
+					]
+				]
+			},
+			"title": "Новосибирска",
+			"subtitle": "Октябрьский район"
+		}
+	}
+}
